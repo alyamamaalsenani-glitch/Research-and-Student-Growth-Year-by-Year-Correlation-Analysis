@@ -66,10 +66,3 @@ $$\text{Driver}(t) \longrightarrow \text{Outcome}(t + \text{Lag})$$
 The system iteratively tests shift offsets (e.g., 1-year, 2-year, and 3-year lags) to detect if heightened institutional funding accurately predicts future surges in high-tier Doctorate registrations.
 
 ---
-
-## 🚀 How To Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/research-student-growth-analysis.git](https://github.com/YOUR_USERNAME/research-student-growth-analysis.git)
-   cd research-student-growth-analysis   
